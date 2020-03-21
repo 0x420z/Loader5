@@ -12,7 +12,7 @@ namespace ManualMapInjection
     {
         static void Main(string[] args)
         {
-
+            MessageBox.Show("Head to VanguardLoaders.com for a secure loader! Use promo code THAISEN for 10% off your first invoice");
             Beginning:
 
             Console.Title = "Nova Hook | Login";
